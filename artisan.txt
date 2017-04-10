@@ -1,0 +1,5 @@
+php artisan storage:link	//
+
+php artisan tinker
+
+factory('App\User',5)->create()
