@@ -17,6 +17,11 @@
 			</div>
 		</div>
 		<div class="panel panel-default">
+			<div class="body">
+				<friend> </friend>
+			</div>
+		</div>
+		<div class="panel panel-default">
 			<div class="panel-heading">
 				About Me
 			</div>
